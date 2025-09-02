@@ -51,6 +51,7 @@ def stack_frames_vertically(input_dir="animation_out", output_file="animation_at
     print(f"Stacked {len(files)} frames into {output_file} ({width}x{total_height})")
 
 def img_2_3dst():
+    Image.MAX_IMAGE_PIXELS = None
     image = Image.open(".\\animation_atlas.png")
     texture = Texture3dst().fromImage(image)
     texture.export(".\\exampleAnimation.3dst")
