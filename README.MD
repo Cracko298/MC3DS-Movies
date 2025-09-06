@@ -3,7 +3,7 @@
 
 
 ## Generating an Animation:
-- Have python and cv2/pillow installed with Python (`opencv-python` and `pillow` via pip).
+- Have python and cv2/pillow installed with Python (`opencv-python`, `pillow`, and `py3dst` via pip).
 - Execute the script by using `py [PATH_TO_C2A.py] [PATH_TO_MP4.mp4]`.
   - Do **NOT** include the `[]` brackets.
 - Place the generated animation on the following directory on your 3DS Console: 
