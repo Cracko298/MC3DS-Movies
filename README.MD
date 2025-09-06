@@ -12,8 +12,8 @@
 
 ## Playing Animations:
 - Click "Edit" on a World, or Create a New one.
-  - Goto the Texture Pack selection screen, and have the default on selected (called "Minecraft").
+- Goto the Texture Pack selection screen, and have the default on selected (called "Minecraft").
 - Press "select", and check-mark the box that says "Play Animation off of SDMC" by pressing "A".
-  - Exit the menu by pressing the "X" button on the top-right of the bottom screen.
+- Exit the menu by pressing the "X" button on the top-right of the bottom screen.
 - The video will play within roughly 30s, and with audio if converted to dspadpcm.
   - With the name `exampleAudio.bcwav`, and in the same PATH as the animation on the 3DS Console.
