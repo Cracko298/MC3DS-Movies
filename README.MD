@@ -10,6 +10,10 @@
   - `.\megapackPlugin\Animations\Helmet\`.
   - Do **NOT** rename the File.
 
+## Releases Page:
+- https://github.com/Cracko298/MC3DS-Movies/releases/latest
+
+
 ## Playing Animations:
 - Click "Edit" on a World, or Create a New one.
 - Goto the Texture Pack selection screen, and have the default on selected (called "Minecraft").
