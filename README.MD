@@ -4,7 +4,7 @@
 
 ## Generating an Animation:
 - Have python and cv2/pillow installed with Python (`opencv-python` and `pillow` via pip).
-- Execute the script by using `py [PATH_TO_C2A.py] [PATH_TO_MP4.mp4]`. (Do not include the []).
+- Execute the script by using `py [PATH_TO_C2A.py] [PATH_TO_MP4.mp4]`. (Do not include the `[]`).
 
 
 ## Playing Animations:
