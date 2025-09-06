@@ -11,7 +11,8 @@
   - Do **NOT** rename the File.
 
 ## Releases Page:
-- https://github.com/Cracko298/MC3DS-Movies/releases/latest
+- Download your Files [Here](https://github.com/Cracko298/MC3DS-Movies/releases/latest).
+  - Don't forget to extract the `*.zip` files.
 
 
 ## Playing Animations:
